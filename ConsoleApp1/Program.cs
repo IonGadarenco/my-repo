@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World! from dana!");
 
             string SayHi(string text) {
                 return text;
