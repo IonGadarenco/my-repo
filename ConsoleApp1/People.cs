@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     class People
     {
+        public int Id { get; set; }
     }
 }
