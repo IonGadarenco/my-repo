@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World! from ion!");
+            Console.WriteLine("Hello, World! from Ion!");
 
             string SayHi(string text) {
                 return text;
